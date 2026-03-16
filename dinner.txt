@@ -1,1 +1,2 @@
 version from conflict-demo branch
+version from main branch
