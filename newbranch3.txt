@@ -1,1 +1,1 @@
-version from main
+resolved version
