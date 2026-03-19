@@ -1,2 +1,2 @@
-def favorite_fruit():
+def favorite_furit():
     return []
