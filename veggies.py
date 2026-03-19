@@ -1,2 +1,3 @@
 def favorite_veggie():
-    return []
+    return ["carrot", "potato"]
+
