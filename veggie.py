@@ -1,2 +1,2 @@
 def favorite_veggies():
-    return []
+    return ["spanish", "broccoli"]
